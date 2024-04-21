@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MediMinder</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="email">Email</string>
+    <string name="logout">Logout</string>
+    <string name="auth_login_welcome_title">Welcome</string>
+    <string name="auth_login_signin_title">Let’s start tracking your meds…</string>
+    <string name="auth_login_button_title">Submit</string>
+    <string name="auth_login_email_hint">Email</string>
+    <string name="error_title_label">Oops! It\'s our bad</string>
+    <string name="error_description_label">Something went wrong, Try again!</string>
+    <string name="empty_title_label">No data available</string>
+    <string name="retry">Retry</string>
+    <string name="greetings">Greetings</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="good_afternoon">Good Afternoon</string>
+    <string name="good_evening">Good Evening</string>
+</resources>
